@@ -1,0 +1,14 @@
+{
+  "name": "in-browser",
+  "version": "1.0.0",
+  "description": "check if you're currently in a browser (as opposed to being in node)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minond/in-browser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/minond/in-browser/issues"
+  },
+  "homepage": "https://github.com/minond/in-browser"
+}
